@@ -1,2 +1,2 @@
 # Project-Xen
-A S&amp;BOX Map made by arab contributors.
+A map for S&BOX created by contributors from the Arab region.
